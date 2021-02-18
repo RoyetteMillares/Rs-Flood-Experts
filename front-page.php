@@ -71,40 +71,46 @@
       <h2>3 Modules for Flood Control Barrier Self-sufficiency</h2>
       <div class="container">
           <div class="container-one">
+            <div class="cont-guide-text">
               <h3>When is a Flood Control Barrier system worthwhile</h3>
               <div class="image-cont">
               <img  width="400" height="252" src="https://floodcontrol.asia/fca-assets/uploads/glucksman-flood-b1.jpg" alt="Flood">
               </div>
-                <div class="cont-guide-text">
+
               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-                </div>
+            
               <div class="btn-link-cont">
               <a class="btn-link" role="button" href="" title="Go to Flood Control Barriers Storage">Go to Flood Control Barriers Storage</a>
-          </div>
+            </div>
+            </div>
           </div>
           <div class="container-one">
+            <div class="cont-guide-text">
             <h3>Are Flood Control Barrier system is more efficient than sandbads</h3>
             <div class="image-cont">
             <img  width="400" height="252" src="https://floodcontrol.asia/fca-assets/uploads/Flood-Control-Asia-RS-1A-express-hotel-flood-barriers.jpg" alt="Demountables">
             </div>
-            <div class="cont-guide-text">
+
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-            </div>
+
             <div class="btn-link-cont">
             <a class="btn-link" role="button" href="" title="Go to Flood Control Barriers System">Go to Flood Control Barriers System </a>
             </div>
+            </div>
           </div>
           <div class="container-one">
+            <div class="cont-guide-text">
           <h3>How does a Flood Control Barrier works in your Homes etc</h3>
           <div class="image-cont">
           <img  width="400" height="252" src="https://floodcontrol.asia/fca-assets/uploads/fca-wellness-center-toscana-02.jpg" alt="Flood Controls Barrier">
           </div>
-          <div class="cont-guide-text">
+
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-          </div>
+
           <div class="btn-link-cont">
           <a class="btn-link" role="button" href="https://royette.netlify.app" title="Go to Flood Control Barriers">Go to Flood Control Barriers</a>
           </div>
+            </div>
           </div>
       </div>
       </div>
@@ -116,6 +122,7 @@
          <h3>Flood Expert Service</h3>
             <div class="container-services">
                 <div class="container-one">
+                  <div class="cont-guide-text">
                       <div class="image">
                           <img  width="305" height="202" class="image__img" src="https://floodcontrol.asia/fca-assets/uploads/2010-Swing-Hinge-Flood-Gate-02-822x490.jpg" alt="Swing-Hinged">
                           <div class="image-overlay">
@@ -124,15 +131,17 @@
                               </div>
                           </div>
                       </div>
-                      <div class="cont-guide-text">
+
                       <h4>Complete Flood Control Barrier Systems</h4>
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                      </div>
+
                       <div class="btn-link-two-cont">
                         <a class="btn-link-two" role="button" href="https://royette.netlify.app" title="To the Complete Packages">To the Complete Packages</a>
                       </div>
+                  </div>
                     </div>
                 <div class="container-one">
+                  <div class="cont-guide-text">
                 <div class="image">
                           <img width="305" height="202" class="image__img" src="https://floodcontrol.asia/fca-assets/uploads/2020-Swing-Hinge-Flood-Gate-04-822x490.jpg" alt="Swing-Hinged">
                           <div class="image-overlay">
@@ -141,16 +150,18 @@
                               </div>
                           </div>
                   </div>
-                  <div class="cont-guide-text">
+
                   <h4>RS Flood Control Promotion</h4>
                   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                  </div>
+
                   <div class="btn-link-two-cont">
                         <a class="btn-link-two" role="button" href="https://royette.netlify.app" title="More About the Funding">More About the Funding</a>
                       </div>
+                  </div>
                 </div>
 
                 <div class="container-one">
+                  <div class="cont-guide-text">
                 <div class="image">
                           <img  width="305" height="202" class="image__img" src="https://floodcontrol.asia/fca-assets/uploads/3015-Lift-Hinge-Flood-Gate-03-822x490.jpg" alt="Lift-Hinged">
                           <div class="image-overlay">
@@ -159,15 +170,17 @@
                               </div>
                           </div>
                       </div>
-                      <div class="cont-guide-text">
+
                       <h4>RS Flood Control System Credit</h4>       
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                      </div>
+
                       <div class="btn-link-two-cont">
                         <a class="btn-link-two" role="button" href="https://royette.netlify.app" title="To The Barriers Loan">To The Barriers Loan</a>
                       </div>
+                  </div>
                     </div>
                 <div class="container-one">
+                  <div class="cont-guide-text">
                 <div class="image">
                           <img  width="305" height="202" class="image__img" src="https://floodcontrol.asia/fca-assets/uploads/4015-Drop-Down-Flood-barrier02-822x490.jpg" alt="Drop-Down Flood Barrier">
                           <div class="image-overlay">
@@ -176,13 +189,14 @@
                               </div>
                           </div>
                       </div>
-                      <div class="cont-guide-text">
+
                       <h4>RS Flood Control Party/Events</h4>
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                      </div>
+
                       <div class="btn-link-two-cont">
                         <a class="btn-link-two" role="button" href="https://royette.netlify.app" title="Organize A Solar Party">Organize a Solar Party</a>
                       </div>
+                  </div>
                     </div>
             </div>
       </div>

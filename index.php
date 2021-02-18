@@ -16,14 +16,9 @@
 <div class="main-container">
 
 <div class="row">
+
 <div class="sidebar-cont">
 <?php get_sidebar(); ?>
-<div class="pagination">
-<div class="linkss">
-<?php  echo paginate_links();  ?>
-</div>
-   
-</div>
 </div>
 <div class="article">
 <?php
@@ -32,10 +27,19 @@
             <div class="blog-cont">
                 <div class="thumbnails-img">
                      <?php the_post_thumbnail('small-thumbnail'); ?>
+                     <div class="mask"></div>
+                <span class="button_image more">
+                <span><i class="fas fa-eye"></i></span>
+                </span>
                 </div>
+                
                 <div class="contents">
+                <div class="blog-titles">
                <a href="<?php the_permalink(); ?>"><h2> <?php the_title(); ?> </h2></a>
+                </div>
+                <div class="blog-text">
                <p> <?php the_content(); ?> </p>
+                </div>
                 </div>
             </div>
             <div class="date-cont">
@@ -50,6 +54,13 @@
     _e('Sorry, No Posts matched your criteria.', 'textdomain');
     endif;
 ?>
+<div class="pagination">
+<div class="linkss">
+<?php  echo paginate_links();  ?>
+</div>
+
+   
+</div>
 
 </div>
 

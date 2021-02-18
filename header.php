@@ -7,6 +7,7 @@
     <title>RS-Flood Control Expert</title>
     <?php wp_head(); ?>
     <script src="https://kit.fontawesome.com/cb1fcebade.js" crossorigin="anonymous"></script>
+    <link href="//db.onlinewebfonts.com/c/2ea3b87b231d6d46708c756a0e04610e?family=GT+Pressura+Regular" rel="stylesheet" type="text/css"/>
 </head>
 
 <?php
@@ -20,7 +21,7 @@
 <div class="top-container">
 <div class="site-branding">
 <header>
-    <a href="<?php echo esc_url( home_url( '/' ) );?>"><img class="logo" src="https://floodcontrol.asia/fca-assets/uploads/fca-logo-300.png" alt="Logo"></a>
+    <a href="<?php echo esc_url( home_url( '/' ) );?>"><img class="logo" src="http://localhost:8888/RS-FloodControl/wp-content/themes/RS/assets/images/RS-The Flood Expert Logo.png" alt="Logo"></a>
 <?php
 wp_nav_menu( array(
     'theme_location' => 'primary',

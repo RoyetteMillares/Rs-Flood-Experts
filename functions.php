@@ -3,6 +3,9 @@
 function theme_enqueue_style(){
     wp_enqueue_style('customcss', get_template_directory_uri() . '/assets/css/mycustom.css', array(), '1.0.0', 'all');
     wp_enqueue_script('customjs', get_template_directory_uri(). '/assets/js/mycustom.js', array(), '1.0.0', true);
+    wp_enqueue_script('gsap-js', 'http://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.1/TweenMax.min.js', array(), false, true );
+    wp_enqueue_script('gsap-js2', get_template_directory_uri() . '/assets/js/custom-gsap-scripts.js', array(), false, true );
+
 }
 if (! function_exists('fa_custom_setup_kit') ) {
     function fa_custom_setup_kit($kit_url = 'https://kit.fontawesome.com/cb1fcebade.js') {
@@ -41,6 +44,7 @@ add_theme_support('html5',array(
 ));
 
 
+  
 
 
 
@@ -93,8 +97,6 @@ register_post_type('barriers',$args);
 }
 add_action('init', 'flood_barrier_product');
 
-
-
 /*SIDE FUNCTION*/ 
 function my_widget_setup() {
     
@@ -112,7 +114,6 @@ function my_widget_setup() {
 );
 }
 add_action('widgets_init','my_widget_setup');
-
 class Walker_Mymenu_Primary extends Walker_Nav_Menu {
    
     public $tree_type = array( 'post_type', 'taxonomy', 'custom' );
@@ -202,9 +203,7 @@ class Walker_Mymenu_Primary extends Walker_Nav_Menu {
                 $value       = ( 'href' === $attr ) ? esc_url( $value ) : esc_attr( $value );
                 $attributes .= ' ' . $attr . '="' . $value . '"';
             }
-        }
- 
-     
+        }    
         $title = apply_filters( 'the_title', $item->title, $item->ID );
  
       
